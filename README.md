@@ -5,4 +5,4 @@ Here I propose a MVO, designed to show what a tech business actualy needs to loo
 
 ![Image of MVO](https://github.com/tim-minter/MVO/blob/main/minimum%20viable%20organisation%20(generic).png)
 
-I also include a draw.io opensource file here [here](https://github.com/tim-minter/MVO/blob/main/minimum%20viable%20organisation%20(generic).drawio) for your reuse. Please note the licence for this repo.
+I also include a draw.io opensource file here [here](https://github.com/tim-minter/MVO/blob/main/minimum%20viable%20organisation%20(generic).drawio) for your reuse. Please note the [licence](https://github.com/tim-minter/MVO/blob/main/LICENSE) for this repo.
